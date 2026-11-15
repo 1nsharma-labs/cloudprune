@@ -23,7 +23,10 @@ For teams that want continuous scheduled automation, multi-account scanning acro
 
 ---
 
-## Purchasing a License
+## Purchasing a License & Inquiries
 
-* Visit [polar.sh/1nsharma-labs](https://polar.sh/1nsharma-labs)
-* Contact enterprise sales: `enterprise@1nsharma-labs.com`
+* **Direct Personal Email:** [amitsharma9976@gmail.com](mailto:amitsharma9976@gmail.com)
+* **Direct UPI / PhonePe / GPay / Paytm:** `6393741171` (UPI ID: `6393741171@upi`)
+* **Founder & Lead:** **Amit Sharma** (@1nsharma)
+* **Global License Checkout:** [polar.sh/1nsharma-labs](https://polar.sh/1nsharma-labs)
+* **GitHub Sponsors:** [github.com/sponsors/1nsharma](https://github.com/sponsors/1nsharma)
