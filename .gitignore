@@ -1,0 +1,5 @@
+node_modules/
+cloudprune-report.html
+.env
+*.log
+.DS_Store

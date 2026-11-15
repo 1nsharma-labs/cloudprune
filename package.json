@@ -1,0 +1,35 @@
+{
+  "name": "cloudprune",
+  "version": "1.0.0",
+  "description": "The Open-Source Cloud Waste & Zombie Resource Killer for AWS & GCP",
+  "main": "core/src/cli.js",
+  "bin": {
+    "cloudprune": "./core/src/cli.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node core/src/cli.js scan",
+    "scan": "node core/src/cli.js scan",
+    "report": "node core/src/cli.js report",
+    "test": "node test/test_cloudprune.js"
+  },
+  "keywords": [
+    "finops",
+    "cloud-cost",
+    "aws",
+    "gcp",
+    "cloud-waste",
+    "ebs-cleanup",
+    "zombie-resources",
+    "devops"
+  ],
+  "author": "1nsharma-labs",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1nsharma-labs/cloudprune.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
